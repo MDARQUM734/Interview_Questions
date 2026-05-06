@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/0061-rotate-list) |
+| [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
 ## Database
 |  |
 | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/MDARQUM734/Interview_Questions/tree/master/1211-queries-quality-and-percentage) |
+## Array
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+## Matrix
+|  |
+| ------- |
+| [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
 <!---LeetCode Topics End-->
