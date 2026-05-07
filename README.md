@@ -18,8 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+| [3660-jump-game-ix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3660-jump-game-ix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3660-jump-game-ix) |
 <!---LeetCode Topics End-->
