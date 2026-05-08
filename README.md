@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3660-jump-game-ix) |
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
