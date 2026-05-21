@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3660-jump-game-ix) |
 ## Matrix
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
