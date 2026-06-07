@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MDARQUM734/Interview_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3660-jump-game-ix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MDARQUM734/Interview_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MDARQUM734/Interview_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/MDARQUM734/Interview_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
