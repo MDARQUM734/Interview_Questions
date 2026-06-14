@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/0061-rotate-list) |
 | [1861-rotating-the-box](https://github.com/MDARQUM734/Interview_Questions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MDARQUM734/Interview_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Database
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/MDARQUM734/Interview_Questions/tree/master/3689-maximum-total-subarray-value-i) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
