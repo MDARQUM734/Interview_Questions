@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3612-process-string-with-special-operations-i](https://github.com/MDARQUM734/Interview_Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MDARQUM734/Interview_Questions/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/MDARQUM734/Interview_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/MDARQUM734/Interview_Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MDARQUM734/Interview_Questions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
