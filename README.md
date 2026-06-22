@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MDARQUM734/Interview_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/MDARQUM734/Interview_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/MDARQUM734/Interview_Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MDARQUM734/Interview_Questions/tree/master/0079-word-search) |
+| [1189-maximum-number-of-balloons](https://github.com/MDARQUM734/Interview_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/MDARQUM734/Interview_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3612-process-string-with-special-operations-i](https://github.com/MDARQUM734/Interview_Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/MDARQUM734/Interview_Questions/tree/master/3838-weighted-word-mapping) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MDARQUM734/Interview_Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MDARQUM734/Interview_Questions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
